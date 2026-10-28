@@ -438,7 +438,7 @@ In accordance with course submission policy and academic integrity standards: La
 7. **M. Mitchell et al.**, "Model Cards for Model Reporting," in *Proceedings of the Conference on Fairness, Accountability, and Transparency (FAT\*)*, 2019, pp. 220–229. [Online]. Available: [https://arxiv.org/abs/1810.03993](https://arxiv.org/abs/1810.03993).
 8. **National Institute of Standards and Technology (NIST)**, "Artificial Intelligence Risk Management Framework (AI RMF 1.0)," *NIST AI 100-1*, 2024. [Online]. Available: [https://doi.org/10.6028/NIST.AI.100-1](https://doi.org/10.6028/NIST.AI.100-1).
 9. **European Parliament and Council of the European Union**, "Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)," *Official Journal of the European Union*, 2024. [Online]. Available: [https://data.europa.eu/eli/reg/2024/1689/oj](https://data.europa.eu/eli/reg/2024/1689/oj).
-10. **Equal Employment Opportunity Commission (EEOC)**, "Uniform Guidelines on Employee Selection Procedures," *29 C.F.R. Part 1607*, 1978. [Online]. Available: [https://www.eeoc.gov/laws/guidance/employment-tests-and-selection-procedures](https://www.eeoc.gov/laws/guidance/employment-tests-and-selection-procedures).
+
 
 ---
 
