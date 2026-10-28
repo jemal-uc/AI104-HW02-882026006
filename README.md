@@ -425,32 +425,5 @@ Aggregate group evaluations obscure vulnerabilities experienced at the intersect
 ### AI Assistance Disclosure
 In accordance with course submission policy and academic integrity standards: Large language model coding assistants (including Antigravity / Gemini) were utilized for code review, documentation structuring, LaTeX formatting, and sanity-checking Markdown tables. All conceptual arguments, mathematical derivations, experimental pipeline designs, model evaluations, and final editorial revisions were independently verified and validated by the author.
 
----
-
-## 14. Academic References
-
-[1] B. Becker and R. Kohavi, “Adult,” UCI Machine Learning Repository, 1996. doi: 
-    10.24432/C5XW20. [Online]. Available: https://archive.ics.uci.edu/dataset/2/adult 
-[2] S. Barocas, M. Hardt, and A. Narayanan, Fairness and Machine Learning: Limitations and 
-    Opportunities. Cambridge, MA, USA: MIT Press, 2023. 
-[3] M. Hardt, E. Price, and N. Srebro, “Equality of opportunity in supervised learning,” in Advances in 
-    Neural Information Processing Systems, vol. 29, 2016. 
-[4] F. Kamiran and T. Calders, “Data preprocessing techniques for classification without 
-    discrimination,” Knowledge and Information Systems, vol. 33, pp. 1–33, 2012, doi: 
-    10.1007/s10115-011-0463-8. 
-[5] A. Agarwal, A. Beygelzimer, M. Dudík, J. Langford, and H. Wallach, “A reductions approach to 
-    fair classification,” in Proc. 35th Int. Conf. Machine Learning, PMLR, vol. 80, pp. 
-    60–69, 2018. 
-[6] Fairlearn Developers, “Fairlearn documentation: Fairness metrics, reductions, and postprocessing,” 
-    ver. 0.15.0, 2026. [Online]. Available: https://fairlearn.org/ 
-[7] M. Mitchell et al., “Model cards for model reporting,” in Proc. Conf. Fairness, Accountability, and 
-    Transparency, pp. 220–229, 2019, doi: 10.1145/3287560.3287596. 
-[8] E. Tabassi, Artificial Intelligence Risk Management Framework (AI RMF 1.0), NIST AI 100-1, 
-    National Institute of Standards and Technology, 2023, doi: 10.6028/NIST.AI.100-1. 
-[9] F. Pedregosa et al., “Scikit-learn: Machine learning in Python,” Journal of Machine Learning 
-    Research, vol. 12, pp. 2825–2830, 2011.
-
-
----
 
 *Academic project submission for AI104 — AI Security and Ethics, Master of Artificial Intelligence, Universitas Kristen Satya Wacana (UKSW).*
