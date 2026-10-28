@@ -1,0 +1,27 @@
+## Model Card — Fair-Adult-Income-Classifier (Research Prototype)
+
+- **Selected Model:** M4b: Post-proc (Group Thresholds) (determined by pre-declared model-selection validation rule; criterion **MET** on validation).
+- **Intended Use:** Academic research, pedagogical demonstration, and comparative fairness auditing on historical census income prediction. **Strictly prohibited for automated credit approval, hiring/employment screening, or public benefit eligibility determination.**
+- **Dataset and Provenance:** UCI Adult (Census Income) dataset (1994 US Census Bureau extract). Cleaned analysis population: 45,222 records after removing missing attributes.
+- **Protected Attributes:** Primary attribute: `sex` (Male / Female). Secondary attribute: `race` (White / Non-White) for intersectional auditing.
+- **Held-Out Test Accuracy:** 0.8387 (83.87%).
+- **Held-Out Fairness Metrics:**
+  - Signed Demographic Parity Difference (Male − Female): +0.1244
+  - Absolute Demographic Parity Difference (|DPD|): 0.1244
+  - Disparate Impact Ratio (Male / Female): 2.6720
+  - Disparate Impact Ratio EEOC (Female / Male): 0.3743
+  - Equalized Odds Difference (EOD): 0.0448
+- **Validation Target EOD ($\le 0.050$):** Achieved on held-out test set: **YES** (0.0448).
+- **Comparison Against Baseline (M1) on Test Set:**
+  - Accuracy change: -0.80 percentage points (from 0.8467 to 0.8387).
+  - Equalized Odds Difference change: -0.0748 (from 0.1197 to 0.0448, a 62.5% reduction in conditional error disparity).
+- **Known Limitations:**
+  - 1994 historical dataset does not reflect contemporary demographic and wage realities.
+  - Proxy features (e.g., `relationship`, `occupation`) carry residual demographic signal.
+  - Group-specific thresholds require sensitive attribute visibility at inference, conflicting with anti-classification legal mandates.
+  - Intersectional sample sizes for minority subgroups (e.g., Non-White Females, $N_{pos}=29$) are small, inducing high sampling variance.
+- **Monitoring Recommendations:**
+  - Continuously track TPR/FPR by intersectional subgroup.
+  - Perform weekly drift tests on calibration score distributions.
+  - Enforce mandatory human escalation for contestable automated recommendations.
+- **Deployment Recommendation:** **Research only. Do NOT deploy in production without representative data, task-specific credit/ability labels, legal compliance review, and stakeholder consensus.**

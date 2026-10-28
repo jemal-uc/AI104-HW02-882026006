@@ -1,0 +1,30 @@
+# ==============================================================================
+# AI104 — AI Security and Ethics | Homework 02
+# Designing a Fair Machine Learning Pipeline: Debiasing Techniques & Fairness Metrics
+# Sub-CPMK-04 / CPMK-02 | Faculty of Information Technology, Universitas Kristen Satya Wacana
+# Student: Gilberto Novena Jemali (NIM: 672022037)
+# Lecturer: Teguh Indra Bayu, S.Kom., M.Cs., Ph.D. (teguh.bayu@uksw.edu)
+# Verified Runtime Environment: Python 3.11.9 (Compatible with Python >= 3.9, <= 3.11)
+# ==============================================================================
+
+# Core Scientific Computing & Data Manipulation
+numpy==2.1.2
+pandas==2.2.3
+scipy==1.14.1
+
+# Machine Learning & Algorithmic Fairness Frameworks
+scikit-learn==1.7.0
+fairlearn==0.15.0
+
+# Data Visualization & Reporting
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Interactive Computing, Notebook Kernel & Reproduction Environment
+ipython==9.17.1
+ipykernel==7.4.0
+jupyter-client==8.10.0
+nbformat==5.11.1
+nbclient==0.11.0
+jupyterlab>=4.0.0
+notebook>=7.0.0
