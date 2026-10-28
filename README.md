@@ -429,15 +429,26 @@ In accordance with course submission policy and academic integrity standards: La
 
 ## 14. Academic References
 
-1. **R. Kohavi and B. Becker**, "Adult Census Income Dataset," *UCI Machine Learning Repository*, 1996. [Online]. Available: [https://doi.org/10.24432/C5XW20](https://doi.org/10.24432/C5XW20).
-2. **S. Bird, M. Dudík, R. Edgar, B. Horn, R. Lutz, V. Milan, M. Sameki, H. Wallach, and K. Walker**, "Fairlearn: A toolkit for assessing and improving fairness in AI," *Microsoft Technical Report*, MSR-TR-2020-32, 2020. [Online]. Available: [https://fairlearn.org/](https://fairlearn.org/).
-3. **F. Pedregosa et al.**, "Scikit-learn: Machine Learning in Python," *Journal of Machine Learning Research*, vol. 12, pp. 2825–2830, 2011. [Online]. Available: [https://scikit-learn.org/](https://scikit-learn.org/).
-4. **A. Agarwal, A. Beygelzimer, M. Dudík, J. Langford, and H. Wallach**, "A Reductions Approach to Fair Classification," in *Proceedings of the 35th International Conference on Machine Learning (ICML)*, PMLR 80, 2018, pp. 60–69. [Online]. Available: [https://arxiv.org/abs/1803.02453](https://arxiv.org/abs/1803.02453).
-5. **M. Hardt, E. Price, and N. Srebro**, "Equality of Opportunity in Supervised Learning," in *Advances in Neural Information Processing Systems (NeurIPS 29)*, 2016, pp. 3315–3323. [Online]. Available: [https://arxiv.org/abs/1610.02413](https://arxiv.org/abs/1610.02413).
-6. **J. Kleinberg, S. Mullainathan, and M. Raghavan**, "Inherent Trade-Offs in the Fair Determination of Risk Scores," in *8th Innovations in Theoretical Computer Science Conference (ITCS)*, LIPIcs, vol. 67, 2017, pp. 43:1–43:23. [Online]. Available: [https://arxiv.org/abs/1609.05807](https://arxiv.org/abs/1609.05807).
-7. **M. Mitchell et al.**, "Model Cards for Model Reporting," in *Proceedings of the Conference on Fairness, Accountability, and Transparency (FAT\*)*, 2019, pp. 220–229. [Online]. Available: [https://arxiv.org/abs/1810.03993](https://arxiv.org/abs/1810.03993).
-8. **National Institute of Standards and Technology (NIST)**, "Artificial Intelligence Risk Management Framework (AI RMF 1.0)," *NIST AI 100-1*, 2024. [Online]. Available: [https://doi.org/10.6028/NIST.AI.100-1](https://doi.org/10.6028/NIST.AI.100-1).
-9. **European Parliament and Council of the European Union**, "Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)," *Official Journal of the European Union*, 2024. [Online]. Available: [https://data.europa.eu/eli/reg/2024/1689/oj](https://data.europa.eu/eli/reg/2024/1689/oj).
+[1] B. Becker and R. Kohavi, “Adult,” UCI Machine Learning Repository, 1996. doi: 
+    10.24432/C5XW20. [Online]. Available: https://archive.ics.uci.edu/dataset/2/adult 
+[2] S. Barocas, M. Hardt, and A. Narayanan, Fairness and Machine Learning: Limitations and 
+    Opportunities. Cambridge, MA, USA: MIT Press, 2023. 
+[3] M. Hardt, E. Price, and N. Srebro, “Equality of opportunity in supervised learning,” in Advances in 
+    Neural Information Processing Systems, vol. 29, 2016. 
+[4] F. Kamiran and T. Calders, “Data preprocessing techniques for classification without 
+    discrimination,” Knowledge and Information Systems, vol. 33, pp. 1–33, 2012, doi: 
+    10.1007/s10115-011-0463-8. 
+[5] A. Agarwal, A. Beygelzimer, M. Dudík, J. Langford, and H. Wallach, “A reductions approach to 
+    fair classification,” in Proc. 35th Int. Conf. Machine Learning, PMLR, vol. 80, pp. 
+    60–69, 2018. 
+[6] Fairlearn Developers, “Fairlearn documentation: Fairness metrics, reductions, and postprocessing,” 
+    ver. 0.15.0, 2026. [Online]. Available: https://fairlearn.org/ 
+[7] M. Mitchell et al., “Model cards for model reporting,” in Proc. Conf. Fairness, Accountability, and 
+    Transparency, pp. 220–229, 2019, doi: 10.1145/3287560.3287596. 
+[8] E. Tabassi, Artificial Intelligence Risk Management Framework (AI RMF 1.0), NIST AI 100-1, 
+    National Institute of Standards and Technology, 2023, doi: 10.6028/NIST.AI.100-1. 
+[9] F. Pedregosa et al., “Scikit-learn: Machine learning in Python,” Journal of Machine Learning 
+    Research, vol. 12, pp. 2825–2830, 2011.
 
 
 ---
